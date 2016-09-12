@@ -2,8 +2,8 @@
 
 ## Grocery List
 
-*Pizza
-*Chocolate Milk
-*Cheese
-*Broccoli
-*Butter
+* Pizza
+* Chocolate Milk
+* Cheese
+* Broccoli
+* Butter
