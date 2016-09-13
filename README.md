@@ -24,7 +24,14 @@
 
   ```
 ###Branching
-
+  Branching is the structure of your code and allows you to create complex "logic gates".
+  ```
+  if x > 4
+    print "Yes"
+  else:
+    print "No"
+  x = 5
+  ```
 ## Functions
   Functions are a block of code that is used to preform a single related action.
   ```
