@@ -5,7 +5,7 @@
   You can assign a variable by setting it using the = sign.
   `pizza = happiness + 1`
 ### Use
-  You can use the variable by calling.
+  You can use the variable by calling it.
   `pizza + bad day == great day`
   "==" is not equivalent to "=","==" means that it is the same, not setting a variable.
 ###Types
@@ -40,5 +40,5 @@
     print text
 
   hello ("World")
-
+  #Prints Hello, world!
   ```
