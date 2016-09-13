@@ -21,3 +21,12 @@
 ###Branching
 
 ## Functions
+  Functions are a block of code that is used to preform a single related action.
+  ```
+  def hello (what):
+    text = "Hello, " + what + "!"
+    print text
+
+  hello ("World")
+
+  ```
